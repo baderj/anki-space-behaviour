@@ -35,3 +35,9 @@ and to ``show_answer`` when the answer should be shown again (triggering a repla
 }
 ```
 
+## Installation
+
+Paste the following code into Anki 2.1:
+```
+2018406030
+```
